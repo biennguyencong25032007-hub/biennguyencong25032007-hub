@@ -1,13 +1,13 @@
 <table style="border-collapse: collapse; border: none;">
 <tr>
-<td width="55%" style="border: none;">
+<td width="55%" style="border: none; vertical-align: top;">
 
 <h1>Hi 👋, I'm Nguyen Bien</h1>
 <h2>A passionate frontend developer from VietNam 🤯</h2>
 
 - 👯 I’m looking to collaborate on **open source projects**  
 - 👨‍💻 My projects:  
-👉 https://github.com/biennguyencong25032007-hub  
+👉 <a href="https://github.com/biennguyencong25032007-hub" target="_blank">GitHub</a>  
 
 <h2>🔥 Connect with me:</h2>
 
@@ -34,9 +34,11 @@
 
 </td>
 
-<td width="45%" align="center" style="border: none;">
+<td width="45%" align="center" style="border: none; vertical-align: top;">
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="420"/>
+<br>
+<em>When bugs hit hard 💀</em>
 
 </td>
 </tr>
