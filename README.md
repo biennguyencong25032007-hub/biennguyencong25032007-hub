@@ -1,11 +1,11 @@
-<!-- BACKGROUND (fake) -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=600&section=header&text=&fontSize=0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=180&section=header"/>
 </p>
 
-<table style="margin-top:-500px; border:none;">
+<table style="border:none;">
 <tr>
-<td width="55%" style="border:none; color:white;">
+<td width="55%" style="border:none;">
 
 <h1>Hi 👋, I'm Nguyen Bien</h1>
 <h2>A passionate frontend developer from VietNam 😂</h2>
@@ -46,3 +46,15 @@
 </td>
 </tr>
 </table>
+
+<h2>🛠 Languages and Tools:</h2>
+<p> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> 
+<img src="https://reactnative.dev/img/header_logo.svg" width="50"/> 
+</p>
