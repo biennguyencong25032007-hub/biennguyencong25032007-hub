@@ -14,8 +14,6 @@
 - 👨‍💻 My projects:  
 👉 https://github.com/biennguyencong25032007-hub  
 
----
-
 <h2>🔥 Connect with me:</h2>
 
 <p>
@@ -43,13 +41,11 @@
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
 
 </td>
 </tr>
 </table>
-
----
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="left"> 
