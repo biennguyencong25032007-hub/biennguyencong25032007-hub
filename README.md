@@ -1,12 +1,16 @@
-<table>
-<tr>
-<td width="55%">
+<div align="center">
+  <h1>Hi 👋, I'm Nguyen Bien</h1>
+  <h2>A passionate frontend developer from VietNam 😂</h2>
+</div>
 
-<h1>Hi 👋, I'm Nguyen Bien</h1>
-<h2>A passionate frontend developer from VietNam 😂</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+</div>
 
-- 👯 I’m looking to collaborate on **open source projects**  
-- 👨‍💻 My projects:  
+<br>
+
+ 👯 I’m looking to collaborate on **open source projects**  
+ 👨‍💻 My projects:  
 👉 https://github.com/biennguyencong25032007-hub  
 
 <h2>🔥 Connect with me:</h2>
@@ -32,18 +36,8 @@
 </a>
 </p>
 
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
-
-</td>
-</tr>
-</table>
-
-<h2 align="left">🛠 Languages and Tools:</h2>
-<p align="left"> 
+<h2>🛠 Languages and Tools:</h2>
+<p> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/> 
