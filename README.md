@@ -1,11 +1,6 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=180&section=header"/>
-</p>
-
-<table style="border:none;">
-<tr>
-<td width="55%" style="border:none;">
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="55%" style="border: none;">
 
 <h1>Hi 👋, I'm Nguyen Bien</h1>
 <h2>A passionate frontend developer from VietNam 😂</h2>
@@ -17,31 +12,31 @@
 <h2>🔥 Connect with me:</h2>
 
 <p>
-<a href="https://www.linkedin.com/" style="text-decoration:none;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="38"/>
+<a href="https://www.linkedin.com/" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="38" style="border:none;"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.facebook.com/bein.cnoq88" style="text-decoration:none;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="38"/>
+<a href="https://www.facebook.com/bein.cnoq88" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="38" style="border:none;"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/" style="text-decoration:none;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="38"/>
+<a href="https://www.instagram.com/" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="38" style="border:none;"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://discord.com/" style="text-decoration:none;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="38"/>
+<a href="https://discord.com/" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="38" style="border:none;"/>
 </a>
 </p>
 
 </td>
 
-<td width="45%" align="center" style="border:none;">
+<td width="45%" align="center" style="border: none;">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" style="border:none;"/>
 
 </td>
 </tr>
