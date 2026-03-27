@@ -1,14 +1,9 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,100:ff4b2b&height=220&section=header&text=Nguyen%20Bien&fontSize=45&fontColor=ffffff&animation=twinkling"/>
-</p>
-
 <table>
 <tr>
 <td width="55%">
 
 <h1>Hi 👋, I'm Nguyen Bien</h1>
-<h2>A passionate frontend developer from VietNam 🤯</h2>
+<h2>A passionate frontend developer from VietNam 😂</h2>
 
 - 👯 I’m looking to collaborate on **open source projects**  
 - 👨‍💻 My projects:  
@@ -41,7 +36,7 @@
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 
 </td>
 </tr>
@@ -57,9 +52,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> 
 <img src="https://reactnative.dev/img/header_logo.svg" width="50"/> 
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b2b,100:ff416c&height=120&section=footer"/>
 </p>
