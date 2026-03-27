@@ -36,7 +36,7 @@
 
 <td width="45%" align="center" style="border: none;">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="420"/>
 
 </td>
 </tr>
