@@ -16,17 +16,14 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="38" style="border:none;"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.facebook.com/bein.cnoq88" target="_blank" style="text-decoration:none; border:none; outline:none;">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="38" style="border:none;"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.instagram.com/" target="_blank" style="text-decoration:none; border:none; outline:none;">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="38" style="border:none;"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://discord.com/" target="_blank" style="text-decoration:none; border:none; outline:none;">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="38" style="border:none;"/>
 </a>
@@ -36,9 +33,9 @@
 
 <td width="45%" align="center" style="border: none; vertical-align: top;">
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="420"/>
+<img src="https://i.pinimg.com/originals/8e/a6/77/8ea677ba92a8809c22145968d98516f5.jpg" width="420"/>
 <br>
-<em>When bugs hit hard 💀</em>
+<em>Code mode: engaged 🔥</em>
 
 </td>
 </tr>
