@@ -1,9 +1,9 @@
 <table style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
+<tr>
 <td width="55%" style="border: none;">
 
 <h1>Hi 👋, I'm Nguyen Bien</h1>
-<h2>A passionate frontend developer from VietNam 😂</h2>
+<h2>A passionate frontend developer from VietNam 🤯</h2>
 
 - 👯 I’m looking to collaborate on **open source projects**  
 - 👨‍💻 My projects:  
@@ -36,7 +36,7 @@
 
 <td width="45%" align="center" style="border: none;">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" style="border:none;"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
 
 </td>
 </tr>
