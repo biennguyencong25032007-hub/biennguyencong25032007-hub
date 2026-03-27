@@ -2,7 +2,7 @@
 <tr style="border: none;">
 <td width="55%" style="border: none;">
 
-<h1>Hi 👋, I'm Nguyen Bien</h1>
+<h1>Hi 👋, I'm Bien Nguyen </h1>
 <h2>A passionate frontend developer from VietNam 😂</h2>
 
 👯 I’m looking to collaborate on **open source projects**  
